@@ -1,0 +1,7 @@
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\ExceptionHandlingApp.exe.config
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\ExceptionHandlingApp.exe
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\ExceptionHandlingApp.pdb
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\ExceptionHandlingApp.csprojAssemblyReference.cache
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\ExceptionHandlingApp.csproj.CoreCompileInputs.cache
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\ExceptionHandlingApp.exe
+F:\Documents\CIS150\TFS and Exception Handling Lesson\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\ExceptionHandlingApp.pdb
