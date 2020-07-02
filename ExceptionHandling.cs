@@ -55,7 +55,7 @@ namespace ExceptionHandlingApp
                 WriteLine("...\n...\n...\n" +
                     "Terminated Normally with no System Exception!!!");
             }
-            ReadKey();
+            //ReadKey();
         }
     }
 }
